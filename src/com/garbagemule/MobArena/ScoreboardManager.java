@@ -11,7 +11,7 @@ import org.bukkit.scoreboard.Scoreboard;
 import com.garbagemule.MobArena.framework.Arena;
 
 public class ScoreboardManager {
-    private static final String DISPLAY_NAME = ChatColor.GREEN + "Kills       " + ChatColor.AQUA + "Wave ";
+    private static final String DISPLAY_NAME = ChatColor.YELLOW + "Kills       " + ChatColor.WHITE + "Wave ";
 
     private Arena arena;
     private Scoreboard scoreboard;
